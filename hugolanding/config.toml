@@ -1,6 +1,6 @@
 baseURL = "https://jamesacampbell.github.io/boomlabs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Boom Labs"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     description = "A port of the Grayscale theme to Hugo"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "James Campbell"
+    email = "jess@boomlabs.ai"
 
 [Social]
-    twitter = "stream_running"
+    twitter = "boomlabsai"

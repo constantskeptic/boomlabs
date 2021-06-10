@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Grayscale Theme on My New Hugo Site</title>
+    <title>Hugo Grayscale Theme on Boom Labs</title>
     <link>https://jamesacampbell.github.io/boomlabs/</link>
-    <description>Recent content in Hugo Grayscale Theme on My New Hugo Site</description>
+    <description>Recent content in Hugo Grayscale Theme on Boom Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>dco@runningstream.net (RunningStream)</managingEditor>
-    <webMaster>dco@runningstream.net (RunningStream)</webMaster>
+    <managingEditor>jess@boomlabs.ai (James Campbell)</managingEditor>
+    <webMaster>jess@boomlabs.ai (James Campbell)</webMaster>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jamesacampbell.github.io/boomlabs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Grayscale
+# Boom Labs
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
+Thought into Action With Real Insights

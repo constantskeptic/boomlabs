@@ -19,3 +19,8 @@ https://gohugo.io/getting-started/quick-start/
 5. when ready to publish changes, run `hugo -D` that renders all content into the `public` folder
 6. get the content from the public folder to the root of gh-pages branch and push
 7. profit
+
+
+### theme used for the site
+
+https://github.com/runningstream/hugograyscale

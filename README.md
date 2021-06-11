@@ -1,5 +1,5 @@
 # boom
-hugo site for https://www.boomlabs.ai
+hugo site for https://www.boomlabs.ai (proudly hosted for free via github)
 
 ## how to build / change
 

@@ -1,0 +1,3 @@
+[submodule "hugolanding/themes/hugograyscale"]
+	path = hugolanding/themes/hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
